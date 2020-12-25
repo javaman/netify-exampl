@@ -1,0 +1,19 @@
+{
+  "name": "netify-exampl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaman/netify-exampl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javaman/netify-exampl/issues"
+  },
+  "homepage": "https://github.com/javaman/netify-exampl#readme"
+}
