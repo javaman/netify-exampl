@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/javaman/netify-exampl/issues"
   },
-  "homepage": "https://github.com/javaman/netify-exampl#readme"
+  "homepage": "https://github.com/javaman/netify-exampl#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
 }
